@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "firstname": "firstname1",
+        "lastname": "lastname1",
+        "image": "user1.jpg"
+    },
+    {
+        "id": 2,
+        "firstname": "firstname2",
+        "lastname": "lastname2",
+        "image": "user2.jpg"
+    },
+    {
+        "id": 3,
+        "firstname": "firstname3",
+        "lastname": "lastname3",
+        "image": "user3.jpg"
+    }
+]
+ 
