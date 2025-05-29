@@ -1,8 +1,7 @@
 [
     {
         "id": 1,
-        "firstname": "firstname1",
-        "lastname": "lastname1",
+        "name": "user1",
         "email":"user1@users.com",
         "password":"user1",
         "image": "user1.jpg",
@@ -11,8 +10,7 @@
     },
     {
         "id": 2,
-        "firstname": "firstname2",
-        "lastname": "lastname2",
+        "name": "user2",
         "email":"user2@users.com",
         "password":"user2",
         "image": "user2.jpg",
@@ -21,8 +19,7 @@
     },
     {
         "id": 3,
-        "firstname": "firstname3",
-        "lastname": "lastname3",
+        "name": "user3",
         "email":"user3@users.com",
         "password":"user3",
         "image": "user3.jpg",
@@ -31,8 +28,7 @@
     },
     {
         "id": 4,
-        "firstname": "firstname4",
-        "lastname": "lastname4",
+        "name": "user4",
         "email":"user4@users.com",
         "password":"user4",
         "image": "user4.jpg",
@@ -41,8 +37,7 @@
     },
     {
         "id": 5,
-        "firstname": "firstname5",
-        "lastname": "lastname5",
+        "name": "user5",
         "email":"user5@users.com",
         "password":"user5",
         "image": "user5.jpg",
