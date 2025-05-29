@@ -3,6 +3,8 @@
         "id": 1,
         "firstname": "firstname1",
         "lastname": "lastname1",
+        "email":"user1@users.com",
+        "password":"user1",
         "image": "user1.jpg",
 		"amount": 75.50,
 		"date":"18 Aug 2024"
@@ -11,6 +13,8 @@
         "id": 2,
         "firstname": "firstname2",
         "lastname": "lastname2",
+        "email":"user2@users.com",
+        "password":"user2",
         "image": "user2.jpg",
 		"amount": -55.50,
 		"date":"23 Aug 2024"
@@ -19,14 +23,18 @@
         "id": 3,
         "firstname": "firstname3",
         "lastname": "lastname3",
+        "email":"user3@users.com",
+        "password":"user3",
         "image": "user3.jpg",
-		"amount": -42.30,
-		"date":"8 Sep 2024"
+	    "amount": -42.30,
+	    "date":"8 Sep 2024"
     },
     {
         "id": 4,
         "firstname": "firstname4",
         "lastname": "lastname4",
+        "email":"user4@users.com",
+        "password":"user4",
         "image": "user4.jpg",
 		"amount": 120.00,
 		"date":"25 Oct 2024"
@@ -35,6 +43,8 @@
         "id": 5,
         "firstname": "firstname5",
         "lastname": "lastname5",
+        "email":"user5@users.com",
+        "password":"user5",
         "image": "user5.jpg",
 		"amount": -65.00,
 		"date":"31 Dec 2024"
