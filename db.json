@@ -1,0 +1,113 @@
+{
+	"users":
+	[
+		{
+			"id": 1,
+			"name": "user1",
+			"email":"user1@users.com",
+			"password":"user1",
+			"image": "user1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "user2",
+			"email":"user2@users.com",
+			"password":"user2",
+			"image": "user2.jpg"
+		},
+		{
+			"id": 3,
+			"name": "user3",
+			"email":"user3@users.com",
+			"password":"user3",
+			"image": "user3.jpg"
+		},
+		{
+			"id": 4,
+			"name": "user4",
+			"email":"user4@users.com",
+			"password":"user4",
+			"image": "user4.jpg"
+		},
+		{
+			"id": 5,
+			"name": "user5",
+			"email":"user5@users.com",
+			"password":"user5",
+			"image": "user5.jpg"
+		}
+	],
+
+	"overview_transactions":
+	[
+		{
+			"user_id": 1,
+			"amount": 75.50,
+			"date":"18 Aug 2024"
+		},
+		{
+			"user_id": 2,
+			"amount": -55.50,
+			"date":"23 Aug 2024"
+		},
+		{
+			"user_id": 3,
+			"amount": -42.30,
+			"date":"8 Sep 2024"
+		},
+		{
+			"user_id": 4,
+			"amount": 120.00,
+			"date":"25 Oct 2024"
+		},
+		{
+			"user_id": 5,
+			"amount": -65.00,
+			"date":"31 Dec 2024"
+		}
+	],
+	
+	"categories":
+	[
+		{
+			"id":1,
+			"name":"Entertainment"
+		},
+		{
+			"id":2,
+			"name":"Bills"
+		},
+		{
+			"id":3,
+			"name":"Groceries"
+		},
+		{
+			"id":4,
+			"name":"Dining Out"
+		},
+		{
+			"id":5,
+			"name":"Transportation"
+		},
+		{
+			"id":6,
+			"name":"Personal Care"
+		},
+		{
+			"id":7,
+			"name":"Education"
+		},
+		{
+			"id":8,
+			"name":"Lifestyle"
+		},
+		{
+			"id":9,
+			"name":"Shopping"
+		},
+		{
+			"id":10,
+			"name":"General"
+		}
+	]
+}
